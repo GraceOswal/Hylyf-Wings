@@ -1,6 +1,6 @@
 # Hylyf-Wings
 
-{check it out} (https://github.com/GraceOswal/Hylyf-Wings.git)
+{check it out} (<https://github.com/GraceOswal/Hylyf-Wings.git>)
 
 ## Description
 
@@ -14,11 +14,9 @@ Order your special wings today!!..
 
 ## Screenshot
 
-
-
 ## Setup
 
-'git clone https://github.com/GraceOswal/Hylyf-Wings.git'
+'git clone <https://github.com/GraceOswal/Hylyf-Wings.git>'
 
 ## BDD
 
