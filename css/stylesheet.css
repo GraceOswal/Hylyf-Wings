@@ -8,15 +8,24 @@
                 padding: 0;
             }
             
+            .h1 {
+                text-align: center;
+            }
+            
             .navi {
                 line-height: 30px;
                 float: right;
             }
             
-            #spantext {
+            .spantext {
                 color: black;
             }
             
-            #exc {
+            .exc {
                 color: orangered;
+            }
+            
+            div.landing {
+                background-image: url();
+                padding: 20px;
             }
