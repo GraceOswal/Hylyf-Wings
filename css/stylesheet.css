@@ -8,14 +8,13 @@
             padding: 0;
         }
         
-        #header {
+        .header {
             background-color: slategrey;
             color: black;
             text-align: center;
         }
         
-        #nav {
+        .nav {
             line-height: 30px;
-            background-color: rgb(32, 32, 3);
-            float: left;
+            float: right;
         }
