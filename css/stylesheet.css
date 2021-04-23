@@ -1,31 +1,36 @@
-            html {
-                scroll-behavior: smooth;
-            }
-            
-            body {
-                background-image: url();
-                margin: 20px;
-                padding: 0;
-            }
-            
-            .h1 {
-                text-align: center;
-            }
-            
-            .navi {
-                line-height: 30px;
-                float: right;
-            }
-            
-            .spantext {
-                color: black;
-            }
-            
-            .exc {
-                color: orangered;
-            }
-            
-            div.landing {
-                background-image: url();
-                padding: 20px;
-            }
+        html {
+            scroll-behavior: smooth;
+        }
+        
+        body {
+            background-image: url();
+            margin: 20px;
+            padding: 0;
+        }
+        
+        .watermark {
+            position: absolute;
+            opacity: 0.2;
+        }
+        
+        .h1 {
+            text-align: center;
+        }
+        
+        .navi {
+            line-height: 30px;
+            float: right;
+        }
+        
+        .spantext {
+            color: black;
+        }
+        
+        .exc {
+            color: orangered;
+        }
+        
+        div.landing {
+            background-image: url();
+            padding: 20px;
+        }
