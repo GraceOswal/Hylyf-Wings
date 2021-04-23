@@ -12,3 +12,11 @@
                 line-height: 30px;
                 float: right;
             }
+            
+            #spantext {
+                color: black;
+            }
+            
+            #exc {
+                color: orangered;
+            }
