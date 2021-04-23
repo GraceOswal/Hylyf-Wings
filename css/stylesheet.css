@@ -1,0 +1,15 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: url();
+    margin: 20px;
+    padding: 0;
+}
+
+#header {
+    background-color: slategrey;
+    color: black;
+    text-align: center;
+}
